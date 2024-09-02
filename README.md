@@ -1,4 +1,4 @@
-# interview-questions
+# interview-questions for data Science and data analyst  
 
 Q1: What is gradient decent problem   how  it will  be handle  or remove   
 Q2: what are the first steps  in data analysis   
