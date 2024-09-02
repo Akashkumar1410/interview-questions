@@ -13,3 +13,4 @@ Q10: diff b/t AI and ML
 Q11: whaat is bias  and all about bias/bayes   
 Q12: what is regularlization   
 Q11: what is  Activation funvtion and their names   
+Q12: 
